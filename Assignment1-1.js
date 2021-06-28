@@ -1,4 +1,4 @@
-
+//Count the frequency of each digit in string
 
 var str ="Arati Budihale";
 var final = str.toLowerCase();
